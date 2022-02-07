@@ -1,5 +1,10 @@
 package za.ac.cput.exercise1;
 
+/**
+ * Cameron Noemdo
+ * 219115443
+ */
+
 public class Human {
     private String firstName;
     private int age;

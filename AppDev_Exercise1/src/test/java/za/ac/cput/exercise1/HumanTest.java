@@ -9,6 +9,11 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Cameron Noemdo
+ * 219115443
+ */
+
 class HumanTest {
 
     public Human human1,human2,human3;
